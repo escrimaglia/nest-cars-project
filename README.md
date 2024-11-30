@@ -61,7 +61,7 @@ $ yarn run test:cov
 ## Run Project
 
 ```bash
-# Populate data bases cars and brands
+# Populate databases cars and brands. Both databases are simulated with arrays
 $ localhost:3000/seed
 ```
 
