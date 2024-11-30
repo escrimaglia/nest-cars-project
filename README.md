@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) My first Nest JS project.
+[Nest](https://github.com/nestjs/nest) My first Nest JS project - Ed Scrimaglia.
 
 ## Project setup
 
